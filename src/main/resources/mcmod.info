@@ -1,0 +1,9 @@
+[{
+    "modid": "trajectorymod",
+    "name": "Trajectory Mod",
+    "description": "Показывает траекторию полёта снарядов.",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "authorList": ["You"],
+    "dependencies": []
+}]
